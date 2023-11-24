@@ -7,7 +7,7 @@ From:
 Grand Rapids, Michigan
 
 Interests: 
-Cybersecurity, Software Development, and AI Integration within the Automotive Industry
+Cybersecurity, Software Development, Capture The Flag Competitions, Reading, etc.
 
 School: 
 Michigan State University
