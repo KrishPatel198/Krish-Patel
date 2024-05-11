@@ -1,7 +1,9 @@
 <h1 align="center"> Krish Patel</h1>
 
 
-
+<p align="center">
+<img src="./Krish_Photo.jpg" width="100" height="100" border="10"/>
+</p>
 
 
 
