@@ -3,7 +3,11 @@
 
 <p align="center"> <img src="./Krish_Photo.jpg" width="300" height="300" border="10"/> </p>
 
-<h2 align="center"> <a href="https://www.linkedin.com/in/krishna-patel-a83424202/"> Connect with me on LinedIn! </a> </h2>
+<h2 align="center"> <a href="https://www.linkedin.com/in/krishna-patel-a83424202/"> Connect with me on LinkedIn! </a> </h2>
+
+<p align="center"> <a <img src="./social-linkedin.png" width="200" height="200" border="10"/>  >  </a>< /p>
+
+<a href="https://www.linkedin.com/in/krishna-patel-a83424202/> krish </a>
 
 
 
