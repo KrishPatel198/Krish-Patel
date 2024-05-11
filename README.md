@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="./Krish_Photo.jpg" width="300" height="300" border="10"/> </p>
 
+<h2 align="center"> <a href="https://www.linkedin.com/in/krishna-patel-a83424202/"> Connect with me on LinedIn! </a> </h2>
+
 
 
 
