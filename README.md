@@ -1,9 +1,9 @@
 <h1 align="center"> Krish Patel</h1>
 
 
-<p align="center"> <img src="./Krish_Photo.jpg" width="100" height="100" border="10"/> </p>
+<p align="center"> <img src="./Krish_Photo.jpg" width="200" height="200" border="10"/> </p>
 
-[<img src="./social-linkedin.png" align="center" width="100" height="100" border="10"/>]([http://example.com/](https://www.linkedin.com/in/krishna-patel-a83424202/))
+
 
 
 # 🙋‍♂️ About Me!
