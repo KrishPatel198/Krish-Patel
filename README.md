@@ -2,8 +2,15 @@
 
 
 <p align="center">
-<img src="./Krish_Photo.jpg" width="100" height="100" border="10"/>
+<img src="./Krish_Photo.jpg" width="100" height="100" border="10" display: inline/>
 </p>
+
+<p align="center">
+<img src="./Krish_Photo.jpg" width="100" height="100" border="10" display: inline/>
+</p>
+
+
+
 
 
 
