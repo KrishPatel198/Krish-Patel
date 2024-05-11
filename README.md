@@ -1,15 +1,9 @@
 <h1 align="center"> Krish Patel</h1>
 
 
-<p align="center" float="left">
-<img src="./Krish_Photo.jpg" width="100" height="100" border="10" />
-</p>
+<p align="center"> <img src="./Krish_Photo.jpg" width="100" height="100" border="10"/> </p>
 
-<p align="center" float="left">
-<img src="./Krish_Photo.jpg" width="100" height="100" border="10" />
-</p>
-
-
+[<p align="center"> <img src="./Krish_Photo.jpg" width="100" height="100" border="10"/> </p>](https://www.linkedin.com/in/krishna-patel-a83424202/)
 
 
 
