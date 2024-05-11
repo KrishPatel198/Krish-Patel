@@ -7,7 +7,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/krishna-patel-a83424202/">
+<a align="center" href="https://www.linkedin.com/in/krishna-patel-a83424202/">
 <img src="./social-linkedin.png" alt="LinkedIn" loading="lazy" width="200" height="200" border="10">
 </a>
 
