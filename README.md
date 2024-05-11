@@ -6,13 +6,11 @@
 <h2 align="center"> <a href="https://www.linkedin.com/in/krishna-patel-a83424202/"> Connect with me on LinkedIn! </a> </h2>
 
 
-
-<a href="https://www.linkedin.com/in/krishna-patel-a83424202/" align="center">
+<p align="center"
+<a href="https://www.linkedin.com/in/krishna-patel-a83424202/">
 <img src="./social-linkedin.png" alt="LinkedIn" loading="lazy" width="200" height="200" border="10">
-
 </a>
-
-
+</p>
 
 
 
