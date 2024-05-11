@@ -3,9 +3,7 @@
 
 <p align="center"> <img src="./Krish_Photo.jpg" width="100" height="100" border="10"/> </p>
 
-[<p align="center"> <img src="./Krish_Photo.jpg" width="100" height="100" border="10"/> </p>](https://www.linkedin.com/in/krishna-patel-a83424202/)
-
-
+[<img src="./social-linkedin.png">]([http://example.com/](https://www.linkedin.com/in/krishna-patel-a83424202/))
 
 
 # 🙋‍♂️ About Me!
