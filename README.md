@@ -1,4 +1,4 @@
-<h1 style="text-align: center"> Krish Patel</h1>
+<h1 align="center"> Krish Patel</h1>
 
 
 
