@@ -5,10 +5,7 @@
 
 <h2 align="center"> <a href="https://www.linkedin.com/in/krishna-patel-a83424202/"> <img src="./social-linkedin.png" alt="LinkedIn" loading="lazy" width="100" height="100" border="10"> </a> </h2>
 
-<h3 align="center"> use  </h3>
-
-
-
+<br>
 
 # 🙋‍♂️ About Me!
 
