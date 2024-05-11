@@ -28,8 +28,8 @@ Business/Finance
 - Developing a great community at the [Spartan Cybersecurity Club](https://spartancybersecurityclub.github.io/) as the Operations Manager
 
 # 🏆 Certifications & Awards (click on hyperlinks to view certificates!)
-- **9th Place out of 80+ ** Colleges around the world in 2024 [MITRE](https://www.mitre.org/)  Embedded Capter The Flag Competition
+- **9th Place out of 80+ ** Colleges around the world in 2024 [MITRE](https://www.mitre.org/) Embedded Capture The Flag Competition
 - **Successfully Entered Attack Phase** from [MITRE](https://credsverse.com/credentials/81e9662b-414a-4db3-8d92-e42056ef39b6)
-- **Apple Foundation Program Certification ** from 
+- **Apple Foundation Program Certification ** from [Apple](Krish-Patel/AppleCertification.pdf)
   
         
