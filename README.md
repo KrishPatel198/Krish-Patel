@@ -29,7 +29,7 @@ Contact Me:
 - 📞 **Phone:** (269) - 543 - 7345 
 - 📧 **Email:** [krp198123@gmail.com](mailto:krp198123@gmail.com)
   
-
+<br>
 
 
 # 🚀 What I'm Doing Now
@@ -37,7 +37,9 @@ Contact Me:
 - Looking for Cybersecurity or Software engineering internships for Fall 2024 or Summer 2025
 - Pursuing a Bachelor's Degree in Computer Science with a minor in Finance at [Michigan State University](https://msu.edu/)
 - Research Assistant at [Security, Networking, and Mobile Systems Research Lab](https://www.cse.msu.edu/~ghtu/research-projects.html), Michigan State University
-- Exec Board member as the Operations Manager for the [Spartan Cybersecurity Club](https://spartancybersecurityclub.github.io/) 
+- Exec Board member as the Operations Manager for the [Spartan Cybersecurity Club](https://spartancybersecurityclub.github.io/)
+
+<br>
 
 # 🏆 Certifications & Awards (click on hyperlinks to view certificates!)
 - **9th Place out of 80+** Colleges around the world in 2024 [MITRE Embedded Capture The Flag Competition](https://mitre-engenuity.org/growing-impact/ectf-embedded-capture-the-flag/)
