@@ -5,6 +5,8 @@
 
 <h2 align="center"> <a href="https://www.linkedin.com/in/krishna-patel-a83424202/"> <img src="./social-linkedin.png" alt="LinkedIn" loading="lazy" width="100" height="100" border="10"> </a> </h2>
 
+<h3 align="center"> use  </h3>
+
 
 
 
@@ -31,6 +33,7 @@ Business/Finance
 Contact Me:
 - 📞 **Phone:** (269) - 543 - 7345 
 - 📧 **Email:** [krp198123@gmail.com](mailto:krp198123@gmail.com)
+- 🔗 **Connect** with me on LinkedIn!
   
 <br>
 
@@ -51,4 +54,10 @@ Contact Me:
 - **Apple Foundation Program Certification** from [Apple](./AppleCertification.pdf)
 - **Certified Associate in Cybersecurity)** from [Fortinet](./Fortinet_Certified_Associate_in_Cybersecurity.pdf)
 - **Certified Fundamentals in Cybersecurity** from [Fortinet](./Fortinet_Certified_Fundamentals_in_Cybersecurity.pdf)
+
+<br>
+
+# 👨‍💻 Skills
+- **Programming:** Python, C++, JavaScript, HTML/CSS, MySQL, Python Flask, Docker, Swift, UI/UX Design
+- **Security:** Vulnerability Management, Penetration testing, Cryptography
        
