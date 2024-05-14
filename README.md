@@ -46,6 +46,7 @@ Contact Me:
 
 # 🏆 Certifications & Awards (click on hyperlinks to view certificates!)
 - **9th Place out of 80+** Colleges around the world in 2024 [MITRE Embedded Capture The Flag Competition](https://mitre-engenuity.org/growing-impact/ectf-embedded-capture-the-flag/)
+  - [View Team Poster](./msu_ectf_poster.pdf)
 - **Successfully Entered Attack Phase** from [MITRE](https://credsverse.com/credentials/81e9662b-414a-4db3-8d92-e42056ef39b6)
 - **CompTIA IT Fundamentals+** from [CompTIA](./CompTIA_IT_Fundamentals_ITF+.pdf) 
 - **Apple Foundation Program Certification** from [Apple](./AppleCertification.pdf)
