@@ -52,6 +52,7 @@ Contact Me:
 - **Apple Foundation Program Certification** from [Apple](./AppleCertification.pdf)
 - **Certified Associate in Cybersecurity)** from [Fortinet](./Fortinet_Certified_Associate_in_Cybersecurity.pdf)
 - **Certified Fundamentals in Cybersecurity** from [Fortinet](./Fortinet_Certified_Fundamentals_in_Cybersecurity.pdf)
+- **AT&T 2024 Technology Academy Completion** from [AT&T](https://www.credly.com/badges/a4eb3301-ce96-416a-9096-bdb775b821b8/linked_in?t=sg08sz)
 
 <br>
 
