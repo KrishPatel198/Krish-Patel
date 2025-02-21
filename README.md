@@ -37,7 +37,7 @@ Contact Me:
 
 # 🚀 What I'm Doing Now
 
-- Looking for Cybersecurity or Software engineering internships for Fall 2024 or Summer 2025
+- Looking for Cybersecurity or Software engineering internships/full-time opportunities for 2025 (I graduate May 2025)
 - Pursuing a Bachelor's Degree in Computer Science with a minor in Finance at [Michigan State University](https://msu.edu/)
 - Research Assistant at [Security, Networking, and Mobile Systems Research Lab](https://www.cse.msu.edu/~ghtu/research-projects.html), Michigan State University
 - Exec Board member as the Operations Manager for the [Spartan Cybersecurity Club](https://spartancybersecurityclub.github.io/)
