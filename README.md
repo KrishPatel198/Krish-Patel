@@ -13,7 +13,7 @@ Name:
 Krish Patel
 
 From: 
-Grand Rapids, Michigan
+Canton, Michigan
 
 Interests: 
 Cybersecurity, Software Development, Capture The Flag Competitions, Reading, Soccer
@@ -53,6 +53,15 @@ Contact Me:
 - **Certified Associate in Cybersecurity)** from [Fortinet](./Fortinet_Certified_Associate_in_Cybersecurity.pdf)
 - **Certified Fundamentals in Cybersecurity** from [Fortinet](./Fortinet_Certified_Fundamentals_in_Cybersecurity.pdf)
 - **AT&T 2024 Technology Academy Completion** from [AT&T](https://www.credly.com/badges/a4eb3301-ce96-416a-9096-bdb775b821b8/linked_in?t=sg08sz)
+
+<br>
+
+# 📂 Projects
+
+### 🔧 [TaskManager Web API](https://github.com/KrishPatel198/TaskManager-API/tree/main)
+A full-featured .NET 9 Web API for managing tasks, complete with persistent storage via Entity Framework Core and SQLite.  
+Built with RESTful endpoints, Swagger UI for testing, and modern best practices in controller-based API design.
+
 
 <br>
 
