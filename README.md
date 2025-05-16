@@ -14,28 +14,28 @@
 
 # 👋 About Me
 
-I'm Krishna (Krish) Patel, a recent Computer Science graduate from Michigan State University with a minor in Business/Finance.  
+I'm Krish Patel, a recent Computer Science graduate from Michigan State University with a minor in Business/Finance.  
 I’m passionate about building efficient, scalable systems and tackling problems that require both algorithmic depth and user empathy.
 
-I have industry and research experience spanning software engineering, WebAssembly, and cybersecurity — and I enjoy working on projects that challenge me to think abstractly, design clean systems, and optimize for both performance and clarity.
+I have industry and research experience spanning software engineering, WebAssembly, cloud deployment, and cybersecurity — and I enjoy working on projects that challenge me to think abstractly, design clean systems, and optimize for both performance and clarity.
 
 ---
 
 # 🚀 What I'm Focused On
 
 - Open to full-time software engineering roles (backend, systems, distributed platforms, or security-focused)
-- Deepening my understanding of scalable system architecture and optimization techniques
+- Deepening my understanding of scalable architecture, cloud CI/CD, and optimization techniques
 - Writing clean, maintainable code in Python, C++, and JavaScript
-- Leveraging Docker, CI/CD pipelines, and WebAssembly to deploy robust full-stack apps
+- Leveraging Docker, WebSockets, and GCP to deploy real-time apps
 
 ---
 
 # 🧠 Core Skills
 
 - **Languages:** Python, C++, JavaScript, HTML/CSS, SQL, C#, Swift
-- **Frameworks & Tools:** Flask, Docker, GitHub Actions, Entity Framework, WebAssembly (Emscripten)
-- **Concepts:** Object-Oriented Design, Algorithms, Optimization (Linear Programming), Distributed Systems
-- **Security:** Vulnerability Management, Penetration Testing, Cryptography
+- **Frameworks & Tools:** Flask, Docker, Socket.IO, TensorFlow, GitHub Actions, Google Cloud Run, WebAssembly
+- **Concepts:** Object-Oriented Design, Algorithms, Linear Programming, Distributed Systems
+- **Security:** Auth (JWT/Hashing), Role-Based Access, Vulnerability Management, Penetration Testing
 
 ---
 
@@ -45,6 +45,13 @@ I have industry and research experience spanning software engineering, WebAssemb
 Capstone project compiled from C++ to WebAssembly using Emscripten. Enables real-time conversion between Markdown, HTML, LaTeX, and RTF with a custom formatting engine and live browser preview.
 
 ▶️ [Live Demo](https://krishpatel198.github.io/rich-text-editor-msu/)
+
+### 🗓️ [Real-Time Group Scheduling Tool](https://final-exam-656037513299.us-central1.run.app)  
+A When2Meet-style platform built with Flask, Socket.IO, MySQL, and vanilla JS/CSS, deployed with Docker on Google Cloud Run.  
+Includes secure auth, invite-only access, and real-time grid-based collaboration (< 30 ms latency).  
+Trained a TensorFlow model to suggest optimal times and exposed predictions via Flask REST. CI/CD pipeline runs on every push with smoke test validation.
+
+▶️ [Live Demo](https://final-exam-656037513299.us-central1.run.app)
 
 ### 🔧 [TaskManager Web API](https://github.com/KrishPatel198/TaskManager-API/tree/main)  
 .NET 9 API with RESTful CRUD endpoints and SQLite persistence.  
