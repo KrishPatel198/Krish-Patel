@@ -62,6 +62,13 @@ Contact Me:
 A full-featured .NET 9 Web API for managing tasks, complete with persistent storage via Entity Framework Core and SQLite.  
 Built with RESTful endpoints, Swagger UI for testing, and modern best practices in controller-based API design.
 
+### 🖋️ [Interactive Rich Text Editor](https://github.com/KrishPatel198/rich-text-editor-msu)
+Capstone project that powers live conversions between HTML, Markdown, LaTeX, raw HTML, and RTF.  
+Built in C++ and compiled to WebAssembly via Emscripten with a split-pane browser UI. Includes selectable text formatting, color pickers, and a custom undo/redo stack.
+
+▶️ [Live Demo](https://krishpatel198.github.io/rich-text-editor-msu/)
+
+
 
 <br>
 
