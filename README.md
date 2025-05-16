@@ -14,7 +14,7 @@
 
 # 👋 About Me
 
-I'm Krish Patel, a recent Computer Science graduate from Michigan State University with a minor in Business/Finance.  
+I'm Krishna (Krish) Patel, a recent Computer Science graduate from Michigan State University with a minor in Business/Finance.  
 I’m passionate about building efficient, scalable systems and tackling problems that require both algorithmic depth and user empathy.
 
 I have industry and research experience spanning software engineering, WebAssembly, cloud deployment, and cybersecurity — and I enjoy working on projects that challenge me to think abstractly, design clean systems, and optimize for both performance and clarity.
